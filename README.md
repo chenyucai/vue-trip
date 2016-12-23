@@ -5,9 +5,9 @@
 ## 查看例子
 - [demo例子](http://www.wenye123.com/#/)
 - 手机的网址请扫描下方的二维码
-![手机网址](./demo/phone.png)
+- ![手机网址](./demo/phone.png)
 - 已经用cordova打包成安卓app，app下载请扫描下方二维码
-![手机网址](./demo/phone_apk.png)
+- ![手机网址](./demo/phone_apk.png)
 
 ## 开始
 
