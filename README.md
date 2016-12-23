@@ -2,6 +2,13 @@
 
 > 一个用vue2.0做的《出行》webapp，可以查询文章，天气，和城市热点
 
+## 用到的知识点有
+- vue2.0
+- vue-router
+- vuex
+- vue-resource
+- mint-ui
+
 ## 查看例子
 - [demo例子](http://www.wenye123.com/#/)
 - 手机的网址请扫描下方的二维码
