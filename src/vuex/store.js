@@ -7,7 +7,7 @@ Vue.use(Vuex)
 
 export default new Vuex.Store({
 	state: { 
-		apikey : '7a258e3018efc906a16bfa2eda3cf1d6',
+		apikey : '换成你自己的百度apikey',
 		//是否显示侧栏
 		slideShow : false,
 		animateIn : 'slideInRight',
